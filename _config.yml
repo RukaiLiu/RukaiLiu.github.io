@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A strong, independent, and thoughtful yet emotional person"
   location         : "Suzhou, Jiangsu"
-  uri              : "https://www.just.edu.cn/"
-  employer         : "Jiangsu University Of Science And Technology"
-  uri              : "liurukai085@163.com"
+  Jiangsu University Of Science And Technology : "https://www.just.edu.cn/"
+  # employer         : "Jiangsu University Of Science And Technology"
+  # uri              : "liurukai085@163.com"
   email            : "liurukai085@163.com" 
 
   # Academic websites
