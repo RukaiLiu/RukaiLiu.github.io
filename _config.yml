@@ -13,7 +13,7 @@ title                    : "Help you get to know me"
 title_separator          : "-"
 name                     : &name "Help you get to know me"
 description              : &description "personal description"
-url                      : "https://rukailiu.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://rukailiu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,14 +27,15 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A strong, independent, and thoughtful yet emotional person"
   location         : "Suzhou, Jiangsu"
-  employer         : "Jiangsu University of Science And Technology"
+  employer         : "Jiangsu University of Science and Technology"
+  # uri              : "liurukai085@163.com"
   email            : "liurukai085@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=V4t4kE4AAAAJ 
+  googlescholar    : "https://scholar.google.com/citations?user=V4t4kE4AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0005-7397-998X" 
+  orcid            : "http://orcid.org/0009-0005-7397-998X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=rukai+liu"
   researchgate     : # URL
@@ -44,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  #github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
- # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
