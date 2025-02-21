@@ -20,5 +20,5 @@ redirect_from:
 技术专长
 ======
 - 计算模拟：精通DFT、紧束缚近似、分子动力学等计算方法
-- 专业工具：QuantumATK | CP2K | Materials Studio | VASP | OriginLab
+- 专业工具：QuantumATK、CP2K、Materials Studio、VASP、OriginLab
 - 工程转化：具备从理论计算到器件性能预测的分析能力
