@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "rukai.png"
-  name             : "Rukai Liu"
+  name             : "刘儒凯"
   pronouns         : # example: "she/her"  
-  bio              : "A strong, independent, and thoughtful yet emotional person"
-  location         : "Suzhou, Jiangsu"
-  employer         : "Jiangsu University of Science and Technology"
+  bio              : "密度泛函理论、第一性原理计算、器件模拟、二维材料"
+  location         : "苏州，江苏"
+  employer         : "江苏科技大学"
   # uri              : "liurukai085@163.com"
   email            : "liurukai085@163.com" 
 
